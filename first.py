@@ -1,3 +1,1 @@
-print('My first git-repo')
-pass
-print('tryy')
+print('attempt of pushing')
